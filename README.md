@@ -2,9 +2,7 @@
 
 ### Hello World, I'm Adrian  👋
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
-<script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
-<dotlottie-player src="https://lottie.host/34944209-d5d9-42a8-983a-9cdf86869b8f/PjOr0PjiEF.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></dotlottie-player>
+<img align="right" alt="GIF" src="https://github.com/a7asoft/a7asoft/blob/ac532f0204d85b28dfce5970af2df2fafee0f920/assets/coding.gif" width="500" height="320" />
 
 ## I'm a Developer, Creator and Mentor!!
 - ✍ You can find my projects here [portfolio]
