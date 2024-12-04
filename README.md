@@ -2,7 +2,7 @@
 
 ### Hello World, I'm Adrian  👋
 
-<img align="right" alt="GIF" src="https://github.com/a7asoft/a7asoft/blob/ac532f0204d85b28dfce5970af2df2fafee0f920/assets/coding.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/a7asoft/a7asoft/blob/d564791b1a6b924236e2c2011c8542020e815797/assets/coding-freak.gif" width="500" height="320" />
 
 ## I'm a Developer, Creator and Mentor!!
 - ✍ You can find my projects here [portfolio]
@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+- ⚡ Fun fact: I speak 2 languages ( English, Spanish)
 
 
 ### Talk with me, I am kinda awesome:
