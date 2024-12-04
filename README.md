@@ -2,7 +2,7 @@
 
 ### Hello World, I'm Adrian  👋
 
-<img align="right" alt="GIF" src="https://github.com/a7asoft/a7asoft/blob/d564791b1a6b924236e2c2011c8542020e815797/assets/coding-freak.gif" width="400" height="320" />
+<img align="right" alt="GIF" src="https://github.com/a7asoft/a7asoft/blob/d564791b1a6b924236e2c2011c8542020e815797/assets/coding-freak.gif" width="500" height="390" />
 
 ## I'm a Developer, Creator and Mentor!!
 - ✍ You can find my projects here [portfolio]
