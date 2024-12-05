@@ -14,8 +14,7 @@ Passionate about crafting high-quality, scalable mobile applications with 7+ yea
 🌱 Stay updated with the latest advancements in mobile development.  
 
 
-### 🔧 Skills  
-🖥️ Languages & Frameworks:  
+### 🖥️ Languages & Frameworks:  
 <span style="display: inline-flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin Logo" width="15" height="15" style="vertical-align: middle; margin-right: 5px;"/> Kotlin
 </span>  
@@ -27,6 +26,12 @@ Passionate about crafting high-quality, scalable mobile applications with 7+ yea
 </span>  
 <span style="display: inline-flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="15" height="15" style="vertical-align: middle; margin-right: 5px;"/> JavaScript
+</span>  
+<span style="display: inline-flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android Logo" width="15" height="15" style="vertical-align: middle; margin-right: 5px;"/> Android
+</span>  
+<span style="display: inline-flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js Logo" width="15" height="15" style="vertical-align: middle; margin-right: 5px;"/> Node.js
 </span>  
 <span style="display: inline-flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter Logo" width="15" height="15" style="vertical-align: middle; margin-right: 5px;"/> Flutter
@@ -57,8 +62,6 @@ I aim to contribute to projects that push the boundaries of mobile development, 
 ### 🌍 Let's Connect!  
 I'm always open to discussing exciting projects, collaboration opportunities, or sharing insights on mobile development.  
 
-<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br /> <br />
-
+<a href="https://www.linkedin.com/in/apzaldivar/" target="_blank">
+  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
+</a>
