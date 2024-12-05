@@ -44,46 +44,45 @@ Passionate about crafting high-quality, scalable mobile applications with 7+ yea
 ### 🛠️ Technologies & Tools:  
 **Mobile Development:**  
 ✨ Jetpack Compose – Modern UI toolkit for Android  
-🌱 Flutter – Cross-platform mobile framework  
 📦 State Management: BloC, Riverpod  
-🗂️ SQLite, Room – Local databases for persistence  
+🗂️ SQLite, Room, Realm – Local databases for persistence  
 🔧 Coroutines, RxJava – For asynchronous programming  
 🔗 Retrofit – HTTP client for network operations  
-☁️ Firebase – Backend as a service for real-time databases, authentication, cloud storage  
+☁️ Firebase – Backend as a service for real-time databases, authentication, cloud storage
 
 **Backend & APIs:**  
 🛠️ Node.js – JavaScript runtime for server-side applications  
 🔒 OAuth/JWT – Authentication protocols  
-🌐 RESTful APIs, GraphQL – For data fetching and interactions  
+🌐 RESTful APIs, GraphQL – For data fetching and interactions
 
 **Testing & Quality Assurance:**  
 🧪 JUnit, Espresso, Mockito – For unit testing, UI testing, and mocking  
-🔍 SonarQube – Code quality and security analysis  
+🔍 SonarQube – Code quality and security analysis
 
 **DevOps & CI/CD:**  
 📦 Docker – Containerization for apps and services  
 🔄 CI/CD Pipelines – Automate testing and deployment  
-📈 Jenkins, GitLab CI – For continuous integration and continuous deployment  
+📈 Jenkins, GitLab CI – For continuous integration and continuous deployment
 
 **Cloud & Hosting:**  
 ☁️ AWS, Google Cloud, Azure – Cloud platforms for infrastructure  
-🌐 Kubernetes – Container orchestration for scaling apps  
+🌐 Kubernetes – Container orchestration for scaling apps
 
 ### 🧠 Soft Skills:  
 🎯 Strategic Planning  
 👥 Team Leadership & Mentoring  
 🧩 Problem Solving & Abstract Thinking  
-🔄 Agile Principles & Adaptability  
+🔄 Agile Principles & Adaptability
 
 ### 🌍 Languages:  
 🇪🇸 Spanish (Native)  
-🇬🇧 English (Intermediate)  
+🇬🇧 English (Intermediate)
 
 ### 🎯 My Vision  
-I aim to contribute to projects that push the boundaries of mobile development, fostering innovation and enhancing user experiences. I'm eager to collaborate with like-minded professionals and explore opportunities that challenge me to grow.  
+I aim to contribute to projects that push the boundaries of mobile development, fostering innovation and enhancing user experiences. I'm eager to collaborate with like-minded professionals and explore opportunities that challenge me to grow.
 
 ### 🌍 Let's Connect!  
-I'm always open to discussing exciting projects, collaboration opportunities, or sharing insights on mobile development.  
+I'm always open to discussing exciting projects, collaboration opportunities, or sharing insights on mobile development.
 
 <a href="https://www.linkedin.com/in/apzaldivar/" target="_blank">
   <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
