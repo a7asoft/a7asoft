@@ -17,25 +17,25 @@ Passionate about crafting high-quality, scalable mobile applications with 7+ yea
 ### 🖥️ Languages & Frameworks:  
 <span style="display: inline-flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin Logo" width="15" height="15" style="vertical-align: middle; margin-right: 5px;"/> Kotlin
-</span>  
+</span><br>
 <span style="display: inline-flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Logo" width="15" height="15" style="vertical-align: middle; margin-right: 5px;"/> Java
-</span>  
+</span><br>
 <span style="display: inline-flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart Logo" width="15" height="15" style="vertical-align: middle; margin-right: 5px;"/> Dart
-</span>  
+</span><br>
 <span style="display: inline-flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="15" height="15" style="vertical-align: middle; margin-right: 5px;"/> JavaScript
-</span>  
+</span><br>
 <span style="display: inline-flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android Logo" width="15" height="15" style="vertical-align: middle; margin-right: 5px;"/> Android
-</span>  
+</span><br>
 <span style="display: inline-flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js Logo" width="15" height="15" style="vertical-align: middle; margin-right: 5px;"/> Node.js
-</span>  
+</span><br>
 <span style="display: inline-flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter Logo" width="15" height="15" style="vertical-align: middle; margin-right: 5px;"/> Flutter
-</span>  
+</span>
 
 
 ### 🛠️ Technologies & Tools:  
