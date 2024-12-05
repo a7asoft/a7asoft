@@ -16,11 +16,11 @@ Passionate about crafting high-quality, scalable mobile applications with 7+ yea
 
 ### 🔧 Skills  
 🖥️ Languages & Frameworks:  
-![Kotlin Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg)  
-☕ Java  
-🎯 Dart  
-🌐 JavaScript  
-🖼️ Flutter  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin Logo" width="30" height="30" /> Kotlin  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Logo" width="30" height="30" /> Java  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart Logo" width="30" height="30" /> Dart  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="30" height="30" /> JavaScript  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter Logo" width="30" height="30" /> Flutter  
 
 
 ### 🛠️ Technologies & Tools:  
