@@ -7,7 +7,7 @@ Hi there! 👋 I'm Adrian
 Passionate about crafting high-quality, scalable mobile applications with 7+ years of experience in native Android development and cross-platform solutions using Flutter. Skilled in building innovative solutions leveraging Kotlin, Java, Dart, and modern frameworks like MVVM and Clean Architecture. Adept at collaborating in Agile environments and delivering exceptional user experiences.
 
 ### 🎯 What I Do  
-🖥️ Build Android and Flutter apps with modern architectures (MVVM, Clean Architecture).  
+🖥️ Build **Android and Flutter** apps with modern architectures (MVVM, Clean Architecture).  
 🚀 Implement Jetpack Compose, Dependency Injection, and CI/CD pipelines to optimize workflows.  
 🌐 Integrate RESTful APIs, GraphQL, and third-party services for seamless functionality.  
 🔧 Solve complex problems with clean code and creative solutions.  
@@ -42,12 +42,32 @@ Passionate about crafting high-quality, scalable mobile applications with 7+ yea
 
 
 ### 🛠️ Technologies & Tools:  
-✨ Jetpack Compose, RxJava, Coroutines, Retrofit  
-🗂️ SQLite, Room, Realm, MongoDB  
-☁️ Firebase, OAuth/JWT, RESTful APIs  
-🧪 JUnit, Espresso, Mockito  
-📦 Docker, CI/CD pipelines  
-🔧 State Management: BloC, Riverpod  
+**Mobile Development:**  
+✨ Jetpack Compose – Modern UI toolkit for Android  
+🌱 Flutter – Cross-platform mobile framework  
+📦 State Management: BloC, Riverpod  
+🗂️ SQLite, Room – Local databases for persistence  
+🔧 Coroutines, RxJava – For asynchronous programming  
+🔗 Retrofit – HTTP client for network operations  
+☁️ Firebase – Backend as a service for real-time databases, authentication, cloud storage  
+
+**Backend & APIs:**  
+🛠️ Node.js – JavaScript runtime for server-side applications  
+🔒 OAuth/JWT – Authentication protocols  
+🌐 RESTful APIs, GraphQL – For data fetching and interactions  
+
+**Testing & Quality Assurance:**  
+🧪 JUnit, Espresso, Mockito – For unit testing, UI testing, and mocking  
+🔍 SonarQube – Code quality and security analysis  
+
+**DevOps & CI/CD:**  
+📦 Docker – Containerization for apps and services  
+🔄 CI/CD Pipelines – Automate testing and deployment  
+📈 Jenkins, GitLab CI – For continuous integration and continuous deployment  
+
+**Cloud & Hosting:**  
+☁️ AWS, Google Cloud, Azure – Cloud platforms for infrastructure  
+🌐 Kubernetes – Container orchestration for scaling apps  
 
 ### 🧠 Soft Skills:  
 🎯 Strategic Planning  
