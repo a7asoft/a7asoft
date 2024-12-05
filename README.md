@@ -35,7 +35,7 @@ Passionate about crafting high-quality, scalable mobile applications with 7+ yea
 </span>  
 <span style="display: inline-flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter Logo" width="15" height="15" style="vertical-align: middle; margin-right: 5px;"/> Flutter
-</span>
+</span>  
 
 
 ### 🛠️ Technologies & Tools:  
