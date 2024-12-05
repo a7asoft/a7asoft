@@ -31,6 +31,9 @@ Passionate about crafting high-quality, scalable mobile applications with 7+ yea
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android Logo" width="15" height="15" style="vertical-align: middle; margin-right: 5px;"/> Android
 </span><br>
 <span style="display: inline-flex; align-items: center;">
+  <img src="https://plugins.jetbrains.com/files/14936/619574/icon/pluginIcon.svg" alt="Kotlin MP Logo" width="15" height="15" style="vertical-align: middle; margin-right: 5px;"/> Koltin Multiplatform
+</span><br>
+<span style="display: inline-flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js Logo" width="15" height="15" style="vertical-align: middle; margin-right: 5px;"/> Node.js
 </span><br>
 <span style="display: inline-flex; align-items: center;">
