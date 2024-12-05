@@ -1,63 +1,45 @@
 ## Hi there 👋
 
-### Hello World, I'm Adrian  👋
+Hi there! 👋 I'm Adrian
+<img align="right" alt="GIF" src="https://github.com/a7asoft/a7asoft/blob/d564791b1a6b924236e2c2011c8542020e815797/assets/coding-freak.gif" width="450" height="340" />
 
-<img align="right" alt="GIF" src="https://github.com/a7asoft/a7asoft/blob/d564791b1a6b924236e2c2011c8542020e815797/assets/coding-freak.gif" width="500" height="390" />
+🚀 Experienced Mobile Developer
+Passionate about crafting high-quality, scalable mobile applications with 7+ years of experience in native Android development and cross-platform solutions using Flutter. Skilled in building innovative solutions leveraging Kotlin, Java, Dart, and modern frameworks like MVVM and Clean Architecture. Adept at collaborating in Agile environments and delivering exceptional user experiences.
 
-## I'm a Developer, Creator and Mentor!!
-- ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 2 languages ( English, Spanish)
+📌 What I do
+🖥️ Build Android and Flutter apps with modern architectures.
+🚀 Optimize apps using CI/CD, Dependency Injection, and Jetpack Compose.
+🌐 Integrate RESTful APIs, GraphQL, and third-party services.
+🔧 Solve problems with clean code and innovative solutions.
+🌱 Constantly learning and staying updated with the latest technologies.
 
 
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+🔧 Skills
+Languages & Frameworks
+Languages: Kotlin, Java, Dart, JavaScript
+Frameworks: Android, Flutter, Kotlin Multiplatform
+Architecture: MVVM, Clean Architecture
+Technologies & Tools
+Development: Jetpack Compose, RxJava, Coroutines, Retrofit
+Database: SQLite, Room, Realm, MongoDB
+Cloud & APIs: Firebase, RESTful APIs, OAuth/JWT
+Testing: JUnit, Espresso, Mockito, XCTest
+DevOps: CI/CD, Docker
+State Management: BloC, Riverpod
+Soft Skills
+Strategic Planning
+Team Leadership & Mentoring
+Problem Solving & Abstract Thinking
+Agile Principles & Adaptability
 
-<br />
+🎯 My Vision
+I aim to contribute to projects that push the boundaries of mobile development, fostering innovation and enhancing user experiences. I'm eager to collaborate with like-minded professionals and explore opportunities that challenge me to grow.
 
-### Languages and Tools:
+🌍 Let's Connect!
+I'm always open to discussing exciting projects, collaboration opportunities, or sharing insights on mobile development.
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][youtube]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][youtube]
-[<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][youtube]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][youtube]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][youtube]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][youtube]
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][youtube]
-[<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][youtube]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][youtube]
-[<img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][youtube]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][youtube]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][youtube]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][youtube]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][youtube]
+<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<br />
-<br />
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
-
-</details>
-
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
-[linkedin]: https://linkedin.com/in/annaarsentieva
-[portfolio]: https://arsentieva.github.io/profile/
+<br /> <br />
 
