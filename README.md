@@ -6,31 +6,40 @@ Hi there! 👋 I'm Adrian
 🚀 Experienced Mobile Developer
 Passionate about crafting high-quality, scalable mobile applications with 7+ years of experience in native Android development and cross-platform solutions using Flutter. Skilled in building innovative solutions leveraging Kotlin, Java, Dart, and modern frameworks like MVVM and Clean Architecture. Adept at collaborating in Agile environments and delivering exceptional user experiences.
 
-📌 What I do
-🖥️ Build Android and Flutter apps with modern architectures.
-🚀 Optimize apps using CI/CD, Dependency Injection, and Jetpack Compose.
-🌐 Integrate RESTful APIs, GraphQL, and third-party services.
-🔧 Solve problems with clean code and innovative solutions.
-🌱 Constantly learning and staying updated with the latest technologies.
+🎯 What I Do
+🖥️ Build Android and Flutter apps with modern architectures (MVVM, Clean Architecture).
+🚀 Implement Jetpack Compose, Dependency Injection, and CI/CD pipelines to optimize workflows.
+🌐 Integrate RESTful APIs, GraphQL, and third-party services for seamless functionality.
+🔧 Solve complex problems with clean code and creative solutions.
+🌱 Stay updated with the latest advancements in mobile development.
 
 
 🔧 Skills
-Languages & Frameworks
-Languages: Kotlin, Java, Dart, JavaScript
-Frameworks: Android, Flutter, Kotlin Multiplatform
-Architecture: MVVM, Clean Architecture
-Technologies & Tools
-Development: Jetpack Compose, RxJava, Coroutines, Retrofit
-Database: SQLite, Room, Realm, MongoDB
-Cloud & APIs: Firebase, RESTful APIs, OAuth/JWT
-Testing: JUnit, Espresso, Mockito, XCTest
-DevOps: CI/CD, Docker
-State Management: BloC, Riverpod
-Soft Skills
-Strategic Planning
-Team Leadership & Mentoring
-Problem Solving & Abstract Thinking
-Agile Principles & Adaptability
+🖥️ Languages & Frameworks:
+🛠️ Kotlin
+☕ Java
+🎯 Dart
+🌐 JavaScript
+🖼️ Flutter
+
+
+🛠️ Technologies & Tools:
+✨ Jetpack Compose, RxJava, Coroutines, Retrofit
+🗂️ SQLite, Room, Realm, MongoDB
+☁️ Firebase, OAuth/JWT, RESTful APIs
+🧪 JUnit, Espresso, Mockito
+📦 Docker, CI/CD pipelines
+🔧 State Management: BloC, Riverpod
+
+🧠 Soft Skills:
+🎯 Strategic Planning
+👥 Team Leadership & Mentoring
+🧩 Problem Solving & Abstract Thinking
+🔄 Agile Principles & Adaptability
+
+🌍 Languages:
+🇪🇸 Spanish (Native)
+🇬🇧 English (Intermediate)
 
 🎯 My Vision
 I aim to contribute to projects that push the boundaries of mobile development, fostering innovation and enhancing user experiences. I'm eager to collaborate with like-minded professionals and explore opportunities that challenge me to grow.
