@@ -16,7 +16,7 @@ Passionate about crafting high-quality, scalable mobile applications with 7+ yea
 
 ### 🔧 Skills  
 🖥️ Languages & Frameworks:  
-🛠️ Kotlin  
+![Kotlin Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg)  
 ☕ Java  
 🎯 Dart  
 🌐 JavaScript  
