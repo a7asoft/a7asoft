@@ -62,7 +62,8 @@ Passionate about crafting high-quality, scalable mobile applications with 7+ yea
 **DevOps & CI/CD:**  
 📦 Docker – Containerization for apps and services  
 🔄 CI/CD Pipelines – Automate testing and deployment  
-📈 Jenkins, GitLab CI – For continuous integration and continuous deployment
+📈 Jenkins**, GitLab CI, GitHub Actions – For continuous integration and continuous deployment
+
 
 **Cloud & Hosting:**  
 ☁️ AWS, Google Cloud, Azure – Cloud platforms for infrastructure  
