@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 Hi there! 👋 I'm Adrian
-<img align="right" alt="GIF" src="https://github.com/a7asoft/a7asoft/blob/d564791b1a6b924236e2c2011c8542020e815797/assets/coding-freak.gif" width="450" height="340" />
 
 🚀 Experienced Mobile Developer
 Passionate about crafting high-quality, scalable mobile applications with 7+ years of experience in native Android development and cross-platform solutions using Flutter. Skilled in building innovative solutions leveraging Kotlin, Java, Dart, and modern frameworks like MVVM and Clean Architecture. Adept at collaborating in Agile environments and delivering exceptional user experiences.
